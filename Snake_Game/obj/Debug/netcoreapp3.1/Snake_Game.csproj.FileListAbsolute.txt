@@ -30,3 +30,19 @@ C:\Users\darav\OneDrive\Рабочий стол\Snake_Game\Snake_Game\obj\Debug\
 C:\Users\darav\OneDrive\Рабочий стол\Snake_Game\Snake_Game\obj\Debug\netcoreapp3.1\Snake_Game.dll
 C:\Users\darav\OneDrive\Рабочий стол\Snake_Game\Snake_Game\obj\Debug\netcoreapp3.1\Snake_Game.pdb
 C:\Users\darav\OneDrive\Рабочий стол\Snake_Game\Snake_Game\obj\Debug\netcoreapp3.1\Snake_Game.genruntimeconfig.cache
+C:\Users\hp\Desktop\Snake\Snake_Game\bin\Debug\netcoreapp3.1\Snake_Game.exe
+C:\Users\hp\Desktop\Snake\Snake_Game\bin\Debug\netcoreapp3.1\Snake_Game.deps.json
+C:\Users\hp\Desktop\Snake\Snake_Game\bin\Debug\netcoreapp3.1\Snake_Game.runtimeconfig.json
+C:\Users\hp\Desktop\Snake\Snake_Game\bin\Debug\netcoreapp3.1\Snake_Game.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Snake\Snake_Game\bin\Debug\netcoreapp3.1\Snake_Game.dll
+C:\Users\hp\Desktop\Snake\Snake_Game\bin\Debug\netcoreapp3.1\Snake_Game.pdb
+C:\Users\hp\Desktop\Snake\Snake_Game\obj\Debug\netcoreapp3.1\Snake_Game.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Snake\Snake_Game\obj\Debug\netcoreapp3.1\Snake_Game.Form1.resources
+C:\Users\hp\Desktop\Snake\Snake_Game\obj\Debug\netcoreapp3.1\Snake_Game.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\Snake\Snake_Game\obj\Debug\netcoreapp3.1\Snake_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Snake\Snake_Game\obj\Debug\netcoreapp3.1\Snake_Game.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Snake\Snake_Game\obj\Debug\netcoreapp3.1\Snake_Game.AssemblyInfo.cs
+C:\Users\hp\Desktop\Snake\Snake_Game\obj\Debug\netcoreapp3.1\Snake_Game.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Snake\Snake_Game\obj\Debug\netcoreapp3.1\Snake_Game.dll
+C:\Users\hp\Desktop\Snake\Snake_Game\obj\Debug\netcoreapp3.1\Snake_Game.pdb
+C:\Users\hp\Desktop\Snake\Snake_Game\obj\Debug\netcoreapp3.1\Snake_Game.genruntimeconfig.cache

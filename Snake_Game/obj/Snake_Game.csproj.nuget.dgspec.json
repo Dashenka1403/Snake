@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\darav\\OneDrive\\Рабочий стол\\Snake_Game\\Snake_Game\\Snake_Game.csproj": {}
+    "C:\\Users\\hp\\Desktop\\Snake\\Snake_Game\\Snake_Game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\darav\\OneDrive\\Рабочий стол\\Snake_Game\\Snake_Game\\Snake_Game.csproj": {
+    "C:\\Users\\hp\\Desktop\\Snake\\Snake_Game\\Snake_Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\darav\\OneDrive\\Рабочий стол\\Snake_Game\\Snake_Game\\Snake_Game.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Snake\\Snake_Game\\Snake_Game.csproj",
         "projectName": "Snake_Game",
-        "projectPath": "C:\\Users\\darav\\OneDrive\\Рабочий стол\\Snake_Game\\Snake_Game\\Snake_Game.csproj",
-        "packagesPath": "C:\\Users\\darav\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\darav\\OneDrive\\Рабочий стол\\Snake_Game\\Snake_Game\\obj\\",
+        "projectPath": "C:\\Users\\hp\\Desktop\\Snake\\Snake_Game\\Snake_Game.csproj",
+        "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\Snake\\Snake_Game\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\darav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
