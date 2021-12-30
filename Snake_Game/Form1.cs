@@ -13,8 +13,8 @@ namespace Snake_Game
     public partial class Form1 : Form
     {
         private int rI, rJ;
-        private int width = 900;
-        private int height = 800;
+        private int width = 700;
+        private int height = 600;
         private int SizeCell = 40;
         private PictureBox Fruit; // фрук
         private PictureBox[] snake = new PictureBox[400]; // змейка
@@ -39,7 +39,7 @@ namespace Snake_Game
             GenerateFruit();
             labelScore = new Label(); // создание счётчика
             labelScore.Text = "Score: 0"; // название
-            labelScore.Location = new Point(810, 10); // размещение счетчика
+            labelScore.Location = new Point(610, 10); // размещение счетчика
             this.Controls.Add(labelScore); // добавление счетчика
             timer.Tick += new EventHandler(Update);
             timer.Interval = 200; // интервал с каким двигается змейка
@@ -63,7 +63,7 @@ namespace Snake_Game
                 PictureBox VerticalLine = new PictureBox();
                 VerticalLine.BackColor = Color.Black;
                 VerticalLine.Location = new Point(SizeCell * i, 0);
-                VerticalLine.Size = new Size(1, width);
+                VerticalLine.Size = new Size(1, height);
                 this.Controls.Add(VerticalLine);
             }
         }
