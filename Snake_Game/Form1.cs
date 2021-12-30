@@ -191,7 +191,7 @@ namespace Snake_Game
                 case "Down":
                     dirY = 1;
                     dirX = 0;
-                    break;
+                    break; 
             }
         }
     }
