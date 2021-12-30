@@ -42,7 +42,7 @@ namespace Snake_Game
             labelScore.Location = new Point(810, 10); // размещение счетчика
             this.Controls.Add(labelScore); // добавление счетчика
             timer.Tick += new EventHandler(Update);
-            timer.Interval = 200; // интервал с каким двигается фрукт
+            timer.Interval = 200; // интервал с каким двигается змейка
             timer.Start();
             this.KeyDown += new KeyEventHandler(Movement);
             dirX = 1;
@@ -148,7 +148,7 @@ namespace Snake_Game
                 snake[score] = new PictureBox();
                 snake[score].Location = new Point(snake[score - 1].Location.X + 40 * dirX, snake[score - 1].Location.Y - 40 * dirY);
                 snake[score].Size = new Size(SizeCell - 1, SizeCell - 1);
-                snake[score].BackColor = Color.Red;
+                snake[score].BackColor = Color.LightGreen;
                 this.Controls.Add(snake[score]);
                 GenerateFruit();
             }
